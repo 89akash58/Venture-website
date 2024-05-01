@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Venture-website/static/css/main.19d773e7.css",
-    "main.js": "/Venture-website/static/js/main.cd4037e2.js",
+    "main.js": "/Venture-website/static/js/main.c25f70e4.js",
     "static/js/453.bb828c5d.chunk.js": "/Venture-website/static/js/453.bb828c5d.chunk.js",
     "static/media/video-1.mp4": "/Venture-website/static/media/video-1.59e75226d30ad48f9ede.mp4",
     "static/media/img-2.jpg": "/Venture-website/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
@@ -17,11 +17,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Venture-website/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Venture-website/index.html",
     "main.19d773e7.css.map": "/Venture-website/static/css/main.19d773e7.css.map",
-    "main.cd4037e2.js.map": "/Venture-website/static/js/main.cd4037e2.js.map",
+    "main.c25f70e4.js.map": "/Venture-website/static/js/main.c25f70e4.js.map",
     "453.bb828c5d.chunk.js.map": "/Venture-website/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19d773e7.css",
-    "static/js/main.cd4037e2.js"
+    "static/js/main.c25f70e4.js"
   ]
 }
