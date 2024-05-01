@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Venture-website/static/css/main.19d773e7.css",
-    "main.js": "/Venture-website/static/js/main.cd4037e2.js",
-    "static/js/453.bb828c5d.chunk.js": "/Venture-website/static/js/453.bb828c5d.chunk.js",
-    "static/media/video-1.mp4": "/Venture-website/static/media/video-1.59e75226d30ad48f9ede.mp4",
-    "static/media/img-2.jpg": "/Venture-website/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-4.jpg": "/Venture-website/static/media/img-4.a31875b76d39f6458a6e.jpg",
-    "static/media/img-3.jpg": "/Venture-website/static/media/img-3.6d683c0ee6824af7961a.jpg",
-    "static/media/img-5.jpg": "/Venture-website/static/media/img-5.7fadbe1bc2b9569a1941.jpg",
-    "static/media/img-9.jpg": "/Venture-website/static/media/img-9.f97f588f3670715d01b2.jpg",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Venture-website/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/img-8.jpg": "/Venture-website/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "static/media/fontawesome-webfont.eot": "/Venture-website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Venture-website/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Venture-website/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Venture-website/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/Venture-website/index.html",
-    "main.19d773e7.css.map": "/Venture-website/static/css/main.19d773e7.css.map",
-    "main.cd4037e2.js.map": "/Venture-website/static/js/main.cd4037e2.js.map",
-    "453.bb828c5d.chunk.js.map": "/Venture-website/static/js/453.bb828c5d.chunk.js.map"
+    "main.css": "/static/css/main.6d51274f.css",
+    "main.js": "/static/js/main.d8e3bc89.js",
+    "static/js/453.bb828c5d.chunk.js": "/static/js/453.bb828c5d.chunk.js",
+    "static/media/video-1.mp4": "/static/media/video-1.59e75226d30ad48f9ede.mp4",
+    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-4.jpg": "/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/img-3.jpg": "/static/media/img-3.6d683c0ee6824af7961a.jpg",
+    "static/media/img-5.jpg": "/static/media/img-5.7fadbe1bc2b9569a1941.jpg",
+    "static/media/img-9.jpg": "/static/media/img-9.f97f588f3670715d01b2.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/index.html",
+    "main.6d51274f.css.map": "/static/css/main.6d51274f.css.map",
+    "main.d8e3bc89.js.map": "/static/js/main.d8e3bc89.js.map",
+    "453.bb828c5d.chunk.js.map": "/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19d773e7.css",
-    "static/js/main.cd4037e2.js"
+    "static/css/main.6d51274f.css",
+    "static/js/main.d8e3bc89.js"
   ]
 }
