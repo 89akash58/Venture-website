@@ -6,7 +6,7 @@ export default function Services() {
   return (
     <>
       <HeroSection />
-      <h1 className="Services">Services</h1>;
+      <h1 className="services">Services</h1>;
       <Footer />
     </>
   );
